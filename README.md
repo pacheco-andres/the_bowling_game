@@ -1,7 +1,7 @@
 # Programación Orientada a Objetos
 
 <center>
-<img src="img/bclogo-black.png" width="400" title="CSS3">
+<img src="img/bclogo-black.png" width="400" >
 </center>
 
 Mediante este ejercicio queremos conocer tus habilidades de programación, puedes utilizar el lenguaje que prefieras pero procura utilizar el enfoque de programación orientada a objetos.
@@ -20,7 +20,7 @@ No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que t
 ## The Bowling Game
 
 <center>
-<img src="img/bowling.png" width="400" title="CSS3">
+<img src="img/bowling.png" >
 </center>
 
 
