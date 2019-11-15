@@ -19,6 +19,10 @@ No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que t
 
 ## The Bowling Game
 
+<center>
+<img src="img/bowling.png" width="400" title="CSS3">
+</center>
+
 
 - The game consists of 10 frames as shown above. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
   
