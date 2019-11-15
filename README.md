@@ -6,7 +6,7 @@
 
 Mediante este ejercicio queremos conocer tus habilidades de programación, puedes utilizar el lenguaje que prefieras pero procura utilizar el enfoque de programación orientada a objetos.
 
-No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que tienes las bases necesarias.
+No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que tienes las bases necesarias para poder aprovechar al máximo nuestro programa.
 
 ## Instrucciones
 - El reto consiste en programar el algoritmo para The Bowling Game (detalles en la sección de abajo)
