@@ -16,6 +16,14 @@ No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que t
 - Dispones de una semana para trabajar en este reto.
 - El código fuente deberás publicarlo en un repositorio de Github y reportar el enlace en esta plataforma antes de la fecha límite establecida. En tu repositorio deberán estar todos los recursos necesarios para ejecutar tu solución.
  
+# Evaluación
+- Revisaremos si sabes aplicar de manera correcta los conceptos de:
+- Abstracción
+- Encapsulamiento
+- Clase
+- Objeto
+- Atributo
+- Método
 
 ## The Bowling Game
 
