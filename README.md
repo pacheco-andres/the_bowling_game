@@ -44,6 +44,9 @@ No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que t
 
 > 2.7.0
 
+## Como cambiar los valores del array de turnos para los frames
+### Ir al constructor de la clase BowlingGame y editarlo al gusto
+
 ## Como correr el programa
 
 > ruby game_bowling.rb 
