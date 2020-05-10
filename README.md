@@ -40,10 +40,10 @@ No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que t
 
 - In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame. However no more than three balls can be rolled in tenth frame.
 
-## Preguntas Frecuentes
+## Version de Ruby usada
 
-### ¿Cómo deben ingresarse los datos al juego?
-Pede ser de manera manual o automática (números aleatorios, por ejemplo), es como tu decidas.
+> 2.7.0
 
-### ¿Debe tener una interfáz gráfica GUI?
-No, no es necesario que el programa tenga GUI puede ser un programa de consola.
+## Como correr el programa
+
+> ruby game_bowling.rb 
